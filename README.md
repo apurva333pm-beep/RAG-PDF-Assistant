@@ -1,4 +1,4 @@
-# 👽 RAG PDFBot
+# 👽 RAG PDF Assistant
 
 RAG PDF Assistant is a Streamlit-powered chatbot that allows you to upload multiple PDFs, embed their content using vector databases, and query them intelligently using Retrieval-Augmented Generation (RAG). It supports both Groq and Gemini as model providers, letting you configure the model, upload PDFs, and get accurate answers from the documents - all with a clean, chat-based UI.
 
