@@ -1,6 +1,6 @@
 # 👽 RAG PDFBot
 
-RAG PDFBot is a Streamlit-powered chatbot that allows you to upload multiple PDFs, embed their content using vector databases, and query them intelligently using Retrieval-Augmented Generation (RAG). It supports both Groq and Gemini as model providers, letting you configure the model, upload PDFs, and get accurate answers from the documents - all with a clean, chat-based UI.
+RAG PDF Assistant is a Streamlit-powered chatbot that allows you to upload multiple PDFs, embed their content using vector databases, and query them intelligently using Retrieval-Augmented Generation (RAG). It supports both Groq and Gemini as model providers, letting you configure the model, upload PDFs, and get accurate answers from the documents - all with a clean, chat-based UI.
 
 The code is modular and extensible, allowing easy integration of additional model providers and LLMs.
 
@@ -51,8 +51,8 @@ The code is modular and extensible, allowing easy integration of additional mode
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/Zlash65/rag-bot-basic.git
-cd rag-bot-basic
+git clone https://github.com/apurva333pm-beep/RAG-PDF-Assistant.git
+cd RAG-PDF-Assistant
 ```
 
 2. **Create a virtual environment (optional)**
